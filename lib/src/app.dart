@@ -14,6 +14,7 @@ class _AppState extends State<App> {
       appBar: AppBar(
         title: const Text('todo App'),
       ),
+      body: Container(),
     );
   }
 }
